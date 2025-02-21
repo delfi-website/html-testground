@@ -1,9 +1,9 @@
 @charset "utf-8";
 @font-face {
-    font-family: ULTRAKILLFONT;
-    src: url(/font/ULTRAKILLFONT.woff) format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-         url(/font/ULTRAKILLFONT.ttf) format('truetype'), /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
-         url(/font/ULTRAKILLFONT.woff2) format('woff2');
+    font-family: "ULTRAKILLFONT";
+    src: url('/font/ULTRAKILLFONT.woff') format('woff'),
+         url('/font/ULTRAKILLFONT.ttf') format('truetype'),
+         url('/font/ULTRAKILLFONT.woff2') format('woff2');
 }  
 
 body {
@@ -26,7 +26,7 @@ h2 {
     color: red;
 	text-align: center;
     font:inherit;
-    font-family: ULRTRAKILLFONT, sans-serif;
+    font-family: "ULRTRAKILLFONT", sans-serif;
 }
 
 
