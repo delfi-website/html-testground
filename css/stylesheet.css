@@ -1,9 +1,9 @@
 @charset "utf-8";
 @font-face {
     font-family: "ULTRAKILLFONT";
-    src: url('/font/ULTRAKILLFONT.woff') format('woff'),
-         url('/font/ULTRAKILLFONT.ttf') format('truetype'),
-         url('/font/ULTRAKILLFONT.woff2') format('woff2');
+    src: url('https://github.com/delfi-website/html-testground/blob/main/font/ULTRAKILLFONT.woff') format('woff'),
+         url('https://github.com/delfi-website/html-testground/blob/main/font/ULTRAKILLFONT.ttf') format('truetype'),
+         url('https://github.com/delfi-website/html-testground/blob/main/font/ULTRAKILLFONT.woff2') format('woff2');
 }  
 
 body {
