@@ -4,7 +4,6 @@
     src: url('/font/ULTRAKILLFONT\ \(VCR_OSD_MONO\).woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
     url('/font/ULTRAKILLFONT\ \(VCR_OSD_MONO\).ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
 }  
-}
 body {
   max-width:60em;
   margin: 1em auto;
