@@ -22,12 +22,13 @@ h1 {
 }
 
 h2 {
-	font-size: 2.6em;
+    font-size: 2.6em;
     color: red;
-	text-align: center;
-    font:inherit;
-    font-family: "ULRTRAKILLFONT", sans-serif;
+    text-align: center;
+    font: inherit;
+    font-family: "ULTRAKILLFONT", sans-serif;
 }
+
 
 
 header {
