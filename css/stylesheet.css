@@ -1,9 +1,9 @@
 @charset "utf-8";
 @font-face {
     font-family: "ULTRAKILLFONT";
-    src: url('https://github.com/delfi-website/html-testground/blob/main/font/ULTRAKILLFONT.woff') format('woff'),
-         url('https://github.com/delfi-website/html-testground/blob/main/font/ULTRAKILLFONT.ttf') format('truetype'),
-         url('https://github.com/delfi-website/html-testground/blob/main/font/ULTRAKILLFONT.woff2') format('woff2');
+    src: url('https://drive.google.com/file/d/1N5VSoKwzBdY2vPo1FjkmhEOt78OknV2v/view?usp=drive_link') format('woff'),
+         url('https://drive.google.com/file/d/1IIqEPgSEr0UY0PdZwmioIQwoASiy25Vo/view?usp=drive_link') format('truetype'),
+         url('https://drive.google.com/file/d/1jZSmzbKP-nN7myTtQUGmU0A4pngIq-yi/view?usp=drive_link') format('woff2');
 }  
 
 body {
